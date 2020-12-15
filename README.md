@@ -9,3 +9,6 @@ In the survey page, the user may email me any information regarding their though
 I am a music education major looking to get more into programming as a whole, so this project gels both of my interests in music and in programming.
 
 ---Enjoy---
+
+# December Update
+I've decided to expand on this project, and revive it as a social media app called PracLog. Read more about it in my PracLog repo! <https://github.com/RobertObrochta/PracLog> 
