@@ -11,4 +11,4 @@ I am a music education major looking to get more into programming as a whole, so
 ---Enjoy---
 
 # December Update
-I've decided to expand on this project, and revive it as a social media app called PracLog. Read more about it in my PracLog repo! <https://github.com/RobertObrochta/PracLog> 
+I've decided to expand on this project, and revive it as a social media app called PracLog. Read more about it in my PracLog repo! <https://github.com/RobertObrochta/Opus> 
